@@ -8,6 +8,9 @@
                 },
                 "sites-enabled": {
                     "path": "FILES/sites-enabled"
+                },
+                "conf": {
+                    "path": "FILES/configs/nginx.conf"
                 }
             }
         }
