@@ -9,6 +9,9 @@
                 "sites-enabled": {
                     "path": "FILES/sites-enabled"
                 },
+                "ssl": {
+                    "path": "FILES/ssl"
+                }
             }
         }
 
