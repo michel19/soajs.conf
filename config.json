@@ -1,0 +1,13 @@
+{
+    "setup": {
+
+        "dashboard": {
+            "nginx": {
+                "upstream": {
+                    "path": "FILES/upstreams/"
+                }
+            }
+        }
+
+    }
+}
