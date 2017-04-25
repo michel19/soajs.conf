@@ -5,7 +5,10 @@
             "nginx": {
                 "upstream": {
                     "path": "FILES/upstreams/"
-                }
+                },
+                "sites-enabled": {
+                    "path": "FILES/sites-enabled"
+                },
             }
         }
 
