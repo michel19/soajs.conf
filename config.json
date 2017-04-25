@@ -11,6 +11,9 @@
                 },
                 "conf": {
                     "path": "FILES/configs/nginx.conf"
+                },
+                "ssl": {
+                    "path": "FILES/ssl/"
                 }
             }
         }
