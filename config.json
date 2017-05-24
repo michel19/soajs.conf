@@ -24,6 +24,10 @@
                 "config": {
                     "path": "FILES/metricbeat/"
                 }
+            },
+
+            "logstash": {
+                "config": "FILES/logstash"
             }
         }
 
