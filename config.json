@@ -4,19 +4,25 @@
         "dashboard": {
             "nginx": {
                 "upstream": {
-                    "path": "FILES/upstreams/"
+                    "path": "FILES/nginx/upstreams/"
                 },
                 "sites-enabled": {
-                    "path": "FILES/sites-enabled"
+                    "path": "FILES/nginx/sites-enabled"
                 },
                 "conf": {
-                    "path": "FILES/configs/nginx.conf"
+                    "path": "FILES/nginx/configs/nginx.conf"
                 },
                 "ssl": {
-                    "path": "FILES/ssl/"
+                    "path": "FILES/nginx/ssl/"
                 },
                 "sites": {
-                    "path": "FILES/sites.json"
+                    "path": "FILES/nginx/sites.json"
+                }
+            },
+
+            "metricbeat": {
+                "config": {
+                    "path": "FILES/metricbeat/"
                 }
             }
         }
