@@ -30,6 +30,12 @@
                 "config": {
                     "path": "FILES/logstash"
                 }
+            },
+
+            "kibana": {
+                "config": {
+                    "path": "FILES/kibana"
+                }
             }
         }
 
