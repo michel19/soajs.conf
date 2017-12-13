@@ -1,43 +1,11 @@
 {
-    "setup": {
-
-        "dashboard": {
-            "nginx": {
-                "upstream": {
-                    "path": "FILES/nginx/upstreams/"
-                },
-                "sites-enabled": {
-                    "path": "FILES/nginx/sites-enabled"
-                },
-                "conf": {
-                    "path": "FILES/nginx/configs/nginx.conf"
-                },
-                "ssl": {
-                    "path": "FILES/nginx/ssl/"
-                },
-                "sites": {
-                    "path": "FILES/nginx/sites.json"
-                }
-            },
-
-            "metricbeat": {
-                "config": {
-                    "path": "FILES/metricbeat/"
-                }
-            },
-
-            "logstash": {
-                "config": {
-                    "path": "FILES/logstash"
-                }
-            },
-
-            "kibana": {
-                "config": {
-                    "path": "FILES/kibana"
-                }
-            }
+  "setup": {
+    "dashboard": {
+      "nginx": {
+        "sites": {
+          "path": "FILES/nginx/sites.json"
         }
-
+      }
     }
+  }
 }

@@ -3,18 +3,10 @@
         {
             "provider": "github",
             "domain": "github.com",
-            "owner": "soajsTestAccount",
-            "repo": "uiDemo",
-            "branch": "master",
-            "path": "/"
-        },
-        {
-            "provider": "github",
-            "domain": "github.com",
-            "owner": "aff04",
-            "repo": "soajs.conf",
-            "branch": "master",
-            "path": "/FILES"
+            "owner": "HerronTech",
+            "repo": "daas",
+            "branch": "merge",
+            "path": "/ui"
         }
     ]
 }
