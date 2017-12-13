@@ -3,7 +3,7 @@
         {
             "provider": "github",
             "domain": "github.com",
-            "owner": "HerronTech",
+            "owner": "michel19",
             "repo": "daas",
             "branch": "merge",
             "path": "/ui"
